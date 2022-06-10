@@ -81,7 +81,15 @@ function keyPush(evt) {
             velocityX = -1;
             velocityY = 0;
             break;
+        case 65:
+            velocityX = -1;
+            velocityY = 0;
+            break;
         case 38:
+            velocityX = 0;
+            velocityY = -1;
+            break;
+        case 87:
             velocityX = 0;
             velocityY = -1;
             break;
@@ -89,7 +97,15 @@ function keyPush(evt) {
             velocityX = 1;
             velocityY = 0;
             break;
+        case 68:
+            velocityX = 1;
+            velocityY = 0;
+            break;
         case 40:
+            velocityX = 0;
+            velocityY = 1;
+            break;
+        case 83:
             velocityX = 0;
             velocityY = 1;
             break;
