@@ -1,4 +1,4 @@
-# Snake
+# Snake <img src="https://raw.githubusercontent.com/open-jj/snake/main/snake.png" alt="" width="25" height="25"/>
 A Snake Game made in Javascript
 ## Link
 - [https://open-jj.github.io/snake](https://open-jj.github.io/snake)
