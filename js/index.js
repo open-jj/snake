@@ -1,9 +1,5 @@
 const canvas = document.getElementById('canvas');
 const _score = document.getElementById('score');
-const up = document.getElementById('up');
-const down = document.getElementById('down');
-const left = document.getElementById('left');
-const right = document.getElementById('right');
 const ctx = canvas.getContext('2d');
 
 var velocityX = 0;
